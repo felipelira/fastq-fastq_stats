@@ -1,0 +1,2 @@
+#DGCC	FW	RV
+1B_S2	/media/flira/Darwin-02/pipeline_cleaning/seqs/1B_S2_R1_001.fastq	/media/flira/Darwin-02/pipeline_cleaning/seqs/1B_S2_R2_001.fastq
