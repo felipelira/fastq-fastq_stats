@@ -1,5 +1,11 @@
 #! uss/bin/env python
+"""
+Calculate the metrics of .fastq files in batch mode
+using one text file as following:
 
+#Sample	PATH_FW_reads	PATH_RV_reads
+
+"""
 import os
 import sys
 from Bio import SeqIO
